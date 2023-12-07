@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SensorApp</string>
+    <string name="sensor_details_alert_title">Producent i Wartość Maksymalna</string>
+    <string name="sensors_count">Liczba czujników: %d</string>
+    <string name="show_subtitle">Pokaż liczbę czujników</string>
+    <string name="missing_sensor">Brak implementacji czujnika</string>
+    <string name="location_permission_denied">Odnowa dostępu do lokalizacji</string>
+    <string name="location_text">Szerokość geograficzna: %1$.4f \n Długość
+geograficzna: %2$.4f \n Czas: %3$tr</string>
+    <string name="no_location">Brak lokalizacji</string>
+    <string name="address_text">Adres: %1$s \n Czas: %2$tr</string>
+    <string name="service_not_available">Usługa niedostępna.</string>
+    <string name="no_addresses_found">Nie można znaleźć adresu.</string>
+    <string name="gravity_sensor_label">Czujnik grawitacji:\n%f m/s²</string>
+    <string name="game_rotation_vector_sensor_label">Czujnik rotacji gry:\nX: %1$.2f\nY: %2$.2f\nZ: %3$.2f</string>
+    <string name="light_sensor_label">Czujnik światła:\n%f lx</string>
+    <string name="pressure_sensor_label">Czujnik ciśnienia:\n%f hPa</string>
+    <string name="ambient_temperature_sensor_label">Temperatura otoczenia:\n%f°C</string>
+    <string name="humidity_sensor_label">Wilgotność:\n%f%%</string>
+    <string name="step_counter_sensor_label">Liczba kroków: \n%d</string>
+    <string name="accelerometer_sensor_label">Akcelerometr:\nX: %1$.2f\nY: %2$.2f\nZ: %3$.2f</string>
+    <string name="touch_sensor_label">Dotyk:\nX: %1$.2f\nY: %2$.2f</string>
+    <string name="step_detector_sensor_label">Wykrywacz kroków: %d</string>
+    <string name="orientation_sensor_label">Orientacja:\nAzimut: %1$.2f°\nNachylenie: %2$.2f°\nRolowanie: %3$.2f°</string>
+    <string name="gyroscope_sensor_label">Żyroskop:\nX: %1$.2f\nY: %2$.2f\nZ: %3$.2f</string>
+    <string name="proximity_sensor_label">Zbliżeniowy:\n%f</string>
+    <string name="linear_acceleration_sensor_label">Przyspieszenie liniowe:\nX: %1$.2f Y: %2$.2f Z: %3$.2f</string>
+    <string name="pick_up_wakeup_sensor_label">Podniesienie urządzenia</string>
+    <string name="device_orientation_sensor_label">Orientacja urządzenia:\n%d</string>
+    <string name="stationary_detect_sensor_label">Wykrycie bezruchu</string>
+    <string name="motion_detect_sensor_label">Wykrycie ruchu</string>
+
+</resources>

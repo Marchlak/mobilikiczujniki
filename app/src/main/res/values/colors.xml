@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red">#F11F1F</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="app_background_color">#2196F3</color>
+    <color name="menu_background_color">#03A9F4</color>
+</resources>
